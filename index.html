@@ -5,9 +5,22 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-  <title>Web Components</title>
+  <link rel="icon" href="data:," />
+  <title>Modal web component</title>
 </head>
 
-<body></body>
+<body>
+  <button type="button">Open the modal</button>
+  <uc-modal>
+    <h1 slot="title">Title</h1>
+    <p>First web component</p>
+  </uc-modal>
+  <script src="./modal.js"></script>
+  <script>
+    document.querySelector("button").onclick = () => {
+      document.querySelector("uc-modal").open();
+    };
+  </script>
+</body>
 
 </html>
