@@ -43,6 +43,20 @@
 - https://github.com/daviddarnes/link-peek
 - https://sh.reddit.com + https://twitter.com/addyosmani/status/1677790748719325185
 - https://github.com/mdn/web-components-examples
+- [two new APIs that allow the declarative shadow DOM to be used from JavaScript](https://developer.chrome.com/blog/new-in-chrome-124/#dsd)
+- https://github.com/shoelace-style/shoelace, fastest approach using web components
+- [Eleventy's newest plugin enables developers to write single file components to include web components, templates, and shadow DOM in our sites. Zach Leatherman shows us how to use WebC](https://www.youtube.com/watch?v=rD07m-uAGaE)
+- https://github.com/hawkticehurst/stellar + https://fosstodon.org/@hawkticehurst/111507538341466399 + https://hawkticehurst.com/writing/12-days-of-web-components/day-6/
+- [Minimalistic Web Components with SSR Support](https://github.com/loreanvictor/minicomp)
+- https://eduardmoldovan.com/not-posts/detailed-example-of-web-components-usage + https://naildrivin5.com/blog/2024/01/24/web-components-in-earnest.html
+- https://www.youtube.com/playlist?list=PL37ZVnwpeshFFbc7hknsfN15lelTPv1sW + https://www.youtube.com/playlist?list=PLG-wJSjG-JpkGsqLGYXbmjl7btpi3ZiWf
+- https://lamplightdev.com/blog/2024/01/10/streaming-html-out-of-order-without-javascript, use of Declarative Shadow DOM
+- https://lamplightdev.com/blog/2021/04/10/how-to-detect-clicks-outside-of-a-web-component/
+- https://github.com/thepassle/swtl + https://github.com/thepassle/blog
+- [A collection of generic web components with a focus on accessibility, and ease of use ](https://github.com/thepassle/generic-components)
+- https://blog.westbrookjohnson.com/patterns/adopted-style-sheets/
+- https://github.com/node-projects/web-component-designer
+- [WebComponents.dev is an component-oriented online IDE](https://webcomponents.dev/docs)
 
 # Course content
 
@@ -62,4 +76,11 @@
   - [x] [Browser support](https://www.webcomponents.org)
   - [x] Creating our first custom element 
     - [The name of the element must start with a lowercase letter, contain a hyphen](https://html.spec.whatwg.org/multipage/custom-elements.html#valid-custom-element-name)
-
+  - [x] Understanding the custom element lifecycle 
+    - https://webcomponents.guide/learn/components/lifecycle-reference
+  - [x] Using the Shadow DOM
+    - https://developer.chrome.com/docs/css-ui/declarative-shadow-dom
+    - https://www.konnorrogers.com/posts/2023/what-is-declarative-shadow-dom
+    - https://www.mayank.co/blog/declarative-shadow-dom-guide
+    - https://news.ycombinator.com/item?id=34778224
+    - https://news.ycombinator.com/item?id=39598211
