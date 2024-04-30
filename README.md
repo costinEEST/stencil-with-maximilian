@@ -1,5 +1,7 @@
 # Dump 
 
+- https://web.dev/articles/web-components
+- https://developer.mozilla.org/en-US/docs/Web/API/Web_Components
 - https://github.com/WebComponentsGuide/webcomponents.guide
 - https://github.com/newbornfrontender/udemy-web-components-and-stencil
 - https://www.newline.co/courses/fullstack-web-components + https://github.com/readymade-ui/fullstack-web-components + https://www.youtube.com/watch?v=VEohjUkyFGU
@@ -74,7 +76,7 @@
     | HTML Imports        | Although this feature was initially part of the Web Components spec, it has been deprecated in favor of ES Modules (JavaScript `import` statements) |
 
   - [x] [Browser support](https://www.webcomponents.org)
-  - [x] Creating our first custom element 
+  - [x] [Creating our first custom element](https://stackblitz.com/edit/tooltip-web-component-max)
     - [The name of the element must start with a lowercase letter, contain a hyphen](https://html.spec.whatwg.org/multipage/custom-elements.html#valid-custom-element-name)
   - [x] Understanding the custom element lifecycle 
     - https://webcomponents.guide/learn/components/lifecycle-reference
